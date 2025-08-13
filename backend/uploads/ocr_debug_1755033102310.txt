@@ -1,0 +1,29 @@
+X:3
+&
+KK
+SLEEK BILL
+Nirmal Vijay, Panchshil Square, Tapovan Road. Camp. Amravati,
+444602, IN
+PHONE © +911234567890
+GSTIN | 2FAAFCY2448G147
+
+Bill No: IN-15 Date: 23 - Jan - 2025
+SN Item Qty Price Amt
+1 Orange Powder 1 400.00 445.00
+2 Walnuts 5% Tax 1 100.00 105.00
+
+Item
+3 Coin 3% Tax Item 1 100.00 103.00
+4 Rose Water 1 150.00 150.00
+5 Glicerene 1 50.00 50.00
+[3 Cheese 12% Tax 1 100.00 12.00
+
+Item
+Subtotal 6 Z900.00
+IGST at 0% 0.00
+IGST at 3% 3.00
+IGST at 5% 5.00
+1GST ai 12% £0.00
+TOTAL ZT 965.00
+
+Thank You
